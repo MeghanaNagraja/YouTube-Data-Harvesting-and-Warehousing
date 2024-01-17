@@ -40,7 +40,7 @@ Once we retrieve the data from the YouTube API (using youtube API reference), we
 
 ## Migrate to SQL
 
-![Getting Started](img1.JPG)
+![img1](https://github.com/MeghanaNagraja/YouTube-Data-Harvesting-and-Warehousing/assets/122547199/7023aaef-f773-4468-9d89-b081b8b5bcb9)
 After we've collected data for multiple channels, we can migrate it to a SQL data warehouse. SQL database MySQL is used for this.
 
 ## Getting insights from data
