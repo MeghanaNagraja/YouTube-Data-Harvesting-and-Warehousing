@@ -45,5 +45,5 @@ After we've collected data for multiple channels, we can migrate it to a SQL dat
 
 ## Getting insights from data
 
-![Getting Started](img3.JPG)
+![img3](https://github.com/MeghanaNagraja/YouTube-Data-Harvesting-and-Warehousing/assets/122547199/bb8b1362-15a1-4e34-b22b-b97c90f55df2)
 We can use SQL queries to join the tables in the SQL data warehouse and retrieve data for specific channels based on user input.
