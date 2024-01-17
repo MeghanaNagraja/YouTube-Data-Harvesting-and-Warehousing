@@ -27,7 +27,7 @@ to create a Streamlit application that allows users to access and analyze data f
 ## Connecting to youtube API
 
 YouTube API is used to retrieve channel and video data. Google API client library is used to make requests to the API.
-![Getting Started](yt.jpg)
+![Getting Started](yt.JPG)
 
 ## Creating streamlit dashboard
 
