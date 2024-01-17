@@ -31,7 +31,7 @@ YouTube API is used to retrieve channel and video data. Google API client librar
 
 ## Creating streamlit dashboard
 
-![Getting Started](img2.JPG)
+![img2](https://github.com/MeghanaNagraja/YouTube-Data-Harvesting-and-Warehousing/assets/122547199/08f5a6f7-735c-431b-90bd-66740c0f80d9)
 Streamlit is to create a simple UI where users can enter a YouTube channel ID, view the channel details, and select channels to migrate to the data warehouse and to SQL,  SQL queries are used to get insights from the data.
 
 ## Collecting data and Uploading to MongoDB
